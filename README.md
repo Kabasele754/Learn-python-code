@@ -1,5 +1,5 @@
 # Apprendre le code python
-#Pourquoi choisir python comme langage de programmation ?
+# Pourquoi choisir python comme langage de programmation ?
 
 Python est aujourd’hui l’un des langages de programmation les plus populaires. 
 Avec l’essor du Big Data et de la Data Science, il sera de plus en plus utilisé dans le futur. 
