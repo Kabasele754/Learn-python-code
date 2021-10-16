@@ -14,5 +14,23 @@ name_variable_1
 
 String
 Integer
+Float
 Boolean
 """
+
+# Initial and Assignation 
+
+name_syring = " Python"
+name_integer = 14
+name_float = 23.3
+name_boolean = True # or False
+
+prints (type(name_syring))
+
+prints (type(name_integer))
+
+prints (type(name_float))
+
+prints (type(name_boolean))
+
+
